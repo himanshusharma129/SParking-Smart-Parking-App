@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078988766232",
+    "firebase_url": "https://sparking-d3bc5.firebaseio.com",
+    "project_id": "sparking-d3bc5",
+    "storage_bucket": "sparking-d3bc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078988766232:android:b620d4865b8fad7c40976d",
+        "android_client_info": {
+          "package_name": "com.hs.sparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078988766232-dulskjedv08vvdg8l4gfva0i4ipmtd4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hs.sparking",
+            "certificate_hash": "6c72f59fdba8ef19b35f78982b198a92bcd34430"
+          }
+        },
+        {
+          "client_id": "1078988766232-knelghaost8ajsabacl683a8fp1ui1po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchfLDnYsNUI6iVj6DYLulLP0dmQYZJ0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078988766232-knelghaost8ajsabacl683a8fp1ui1po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

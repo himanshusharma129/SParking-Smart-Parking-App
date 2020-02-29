@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sparking"
+        android:textAlignment="center"
+        android:textSize="50sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Smart Parking Solution"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/cs_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login As Customer" />
+
+    <Button
+        android:id="@+id/ad_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login As Admin" />
+
+    <Button
+        android:id="@+id/cus_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer Reguistration" />
+
+    <Button
+        android:id="@+id/ad_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Admin Registration" />
+</LinearLayout>
